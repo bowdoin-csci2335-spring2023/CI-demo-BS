@@ -1,4 +1,4 @@
-ame: Demo to writing GitHub Actions Build Scripts
+name: Demo to writing GitHub Actions Build Scripts
 
 on:
   pull_request:
